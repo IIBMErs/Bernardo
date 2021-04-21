@@ -1,6 +1,8 @@
 # Bernardo
 Plant growing automation
 
+<img src="https://github.com/IIBMErs/Bernardo/blob/main/images/CorcheaR1_0107.jpg" height="300" />
+
 ## Description
 Bernardo is a plant growing automation system, it has 3 levels
 
