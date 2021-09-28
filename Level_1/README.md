@@ -9,3 +9,7 @@ Alternatively and if you want to see the screen to focus the camera for example 
 To access the data on you Raspberry pi you can use set a [Samba server](https://pimylifeup.com/raspberry-pi-samba/)
 
 Alternatively you can use SCP but I could not make it work.
+
+## Setting a pot
+
+
