@@ -22,25 +22,25 @@ Then fill with substrate.
 
 ### Substrate formula
 
-- 50% Dirt 
+- 50% v/v Dirt 
 <img src="https://github.com/IIBMErs/Bernardo/blob/main/images/tierra.jpeg" height="300" />
 
-- 20% Perlia
+- 20% v/v Perlia
 <img src="https://github.com/IIBMErs/Bernardo/blob/main/images/perlita.jpeg" height="300" />
 
-- 20% Vermiculita
+- 20% v/v Vermiculita
 <img src="https://github.com/IIBMErs/Bernardo/blob/main/images/vermiculita.jpeg" height="300" />
 
-- 4.5% Humus
+- 4.5% v/v Humus
 <img src="https://github.com/IIBMErs/Bernardo/blob/main/images/humus.jpeg" height="300" />
 
-- 4.5% Compost
+- 4.5% v/v Compost
 <img src="https://github.com/IIBMErs/Bernardo/blob/main/images/compost.jpeg" height="300" />
 
-- 0.5% Nutrients
+- 0.5% v/v Nutrients
 <img src="https://github.com/IIBMErs/Bernardo/blob/main/images/nutrients.jpeg" height="300" />
 
-- 0.5% Diatoms
+- 0.5% v/v Diatoms
 <img src="https://github.com/IIBMErs/Bernardo/blob/main/images/diatom.jpeg" height="200" />
 
 ### Optional
