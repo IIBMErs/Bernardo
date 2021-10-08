@@ -12,7 +12,7 @@ Alternatively you can use SCP but I could not make it work.
 
 ## Setting data collector
 
-To collect data we use Home Assistant OS in a Raspberry Pi 4, [installation instructions](https://www.home-assistant.io/installation/raspberrypi/)
+To collect data we use a Raspberry Pi 4 with [Home Assistant OS](https://www.home-assistant.io/installation/raspberrypi/)
 
 
 ## Setting a pot
