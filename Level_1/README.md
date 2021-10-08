@@ -10,6 +10,11 @@ To access the data on you Raspberry pi you can use set a [Samba server](https://
 
 Alternatively you can use SCP but I could not make it work.
 
+## Setting data collector
+
+To collect data we use Home Assistant OS in a Raspberry Pi 4, [installation instructions](https://www.home-assistant.io/installation/raspberrypi/)
+
+
 ## Setting a pot
 
 The first step is to make the substrate. 
@@ -47,6 +52,8 @@ Then fill with substrate.
 The pot can be covered with plastic to retain humidity.
 
 <img src="https://github.com/IIBMErs/Bernardo/blob/main/images/pot_plastic.jpeg" height="300" />
+
+
 
 
 
